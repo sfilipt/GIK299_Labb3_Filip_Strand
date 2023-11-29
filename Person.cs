@@ -9,25 +9,24 @@ namespace Laboration3
     public class Person
     {
         //class properties
-        public string Name { get; set; }
         public string EyeColor { get; set; }
         public DateOnly BirthDate { get; set; }
         public Hair PersonHair { get; set; }
         public Gender PersonGender { get; set; }
 
         //constructor
-        public Person(string name, string eyeColor, DateOnly birthDate, Hair personHair, Gender personGender)
+        public Person(string eyeColor, DateOnly birthDate, Hair personHair, Gender personGender)
             {
-            Name = name;
             EyeColor = eyeColor;
             BirthDate = birthDate;
             PersonHair = personHair;
             PersonGender = personGender;
             }
 
+        //ToString metod som gör om datan till string och formatterar den för utskrift.
         public override string ToString()
         {
-            return $"Namn: {Name}" +
+            return 
             $"\nÖgonfärg: {EyeColor}" +
             $"\nFödelsdag: {BirthDate}" +
             $"\nHårlängd: {PersonHair.Length} " +
