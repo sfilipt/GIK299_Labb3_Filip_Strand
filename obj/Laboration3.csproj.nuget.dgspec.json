@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3\\Laboration3.csproj": {}
+    "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3\\Laboration3.csproj": {
+    "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3\\Laboration3.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3.csproj",
         "projectName": "Laboration3",
-        "projectPath": "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3\\Laboration3.csproj",
+        "projectPath": "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\Laboration3\\obj\\",
+        "outputPath": "C:\\Users\\Filip\\source\\repos\\GIK299_Labb3_Filip_Strand\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

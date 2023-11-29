@@ -1,0 +1,14 @@
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\bin\Debug\net7.0\Laboration3.exe
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\bin\Debug\net7.0\Laboration3.deps.json
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\bin\Debug\net7.0\Laboration3.runtimeconfig.json
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\bin\Debug\net7.0\Laboration3.dll
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\bin\Debug\net7.0\Laboration3.pdb
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.AssemblyInfo.cs
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.dll
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\refint\Laboration3.dll
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.pdb
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\Laboration3.genruntimeconfig.cache
+C:\Users\Filip\source\repos\GIK299_Labb3_Filip_Strand\obj\Debug\net7.0\ref\Laboration3.dll
